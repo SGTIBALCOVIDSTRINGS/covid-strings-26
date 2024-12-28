@@ -16,48 +16,48 @@ new j button (change color)
 public fun with graphics(){
 jpanel color panel=new j panel();
 this add (panel,center )
-JPanel Button Panel=
-New J Panel (Flowlayout.Center)
-ButtonPanel.Add(RandomButton);
-Random.Button Add ActionListener(New Action Listener()
-Override 
-Public ActionPerformed(ActionEvent E)
-Random R= NewRandom();
-ColorPanel.SetBackground(New Color (RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13)))
-ButtonPanel.Add(OptionButton);
-OptionButton.Add ActionListener(New Action Listener()
-Override 
-Public ActionPerformed(ActionEvent E)
-Color M=JColorChooser.ShowDialog(FunWithGraphics.This,)
-If(Multi!=Null)
-Color Panel Set.Background(Multi)
-This.Add(ButtonPanel, BorderLayout.South)
-Public Static Main(String [] Args)
-JFrame F =New Covid Strings26()
-F.Set Title(Covid Strings26)
-F.Set Default CloseOperation(JFrame. Exit_On_Close);
-F.SetSize
-F.Set Visible(True);
-<Label Id=LblScore>Zero</Label>
-Var Score=Zero
-If (Mult ==X*Y)
-[Non-Concatenated]
-Score+=Ten
-Else:
-Score-=Ten
-If (Mult ==X*Y)
-[Concatenated]
-Score+=Twenty
-Else:
-Score-=Twenty
-LblScore= Document.GetElementbyId(LblScore)
-Lbl.Score.InnerHTML=Score
-Public ActionPerformed(Action Event E) 
-System.Out Print.In (Next Button Clicked)
-Frame.Add(Next Button);
-Frame Set Visible True
-Object {A:One,B:Two,C:Three,D:Four,E:Five, F:Six, G:Seven, H:Eight}
-Keys Object Keys(Team)
-Entries Object Entries(Obj);
-Value Object= [Team Color]
+jpanel button panel=
+new j panel (flowlayout.center)
+buttonpanel.add(randombutton);
+random.button add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+random r=newrandom();
+colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
+buttonpanel.add(optionbutton);
+optionbutton.add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+color m=jcolorchooser.showdialog(funwithgraphics.this)
+if(multi!=null)
+color panel set.background(multi)
+this.add(buttonpanel,borderlayout.south)
+public static main(string [] args)
+jframef=new covid strings26()
+f.set title(covid strings26)
+f.set default closeoperation(jframe. exit_on_close);
+f.setsize
+f.set visible(true);
+<label id=lblscore>zero</label>
+sore=zero
+if(mult==x*y)
+[non-concatenated]
+score+=ten
+else:
+score-=ten
+if (mult ==x*y)
+[concatenated]
+score+=twenty
+else:
+score-=twenty
+lblscore=document.getelementbyid(lblscore)
+lbl.score.innerHTML=score
+public actionperformed(action event e) 
+system.out print.in (next button clicked)
+frame.add(next button);
+frame set visible true
+object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
+keys object keys(team)
+entries object entries(obj);
+value object= [team color]
 return filename
