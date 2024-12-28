@@ -8,32 +8,32 @@ src=documentgetelementbyid(header)
 src.appendchild(this.img)
 <div id=header></div>
 audio=new audio(audio_file mp3)
-Audio.Play 
-JButton Random Button
-New JButton (Set Random Color)
-Private Final J Button Option Button=
-New J Button (Change Color)
-Public Fun With Graphics(){
-JPanel Color Panel=New J Panel();
-This Add (Panel,Center )
-JPanel Button Panel=
-New J Panel (Flowlayout.Center)
-ButtonPanel.Add(RandomButton);
-Random.Button Add ActionListener(New Action Listener(){
-Override 
-Public ActionPerformed(ActionEvent E){
-Random R= NewRandom();
-ColorPanel.SetBackground(New Color (RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13)))
-ButtonPanel.Add(OptionButton);
-OptionButton.Add ActionListener(New Action Listener()
-Override 
-Public ActionPerformed(ActionEvent E)
-Color M=JColorChooser.ShowDialog(FunWithGraphics.This,)
-If(Multi!=Null)
-Color Panel Set.Background(Multi)
-This.Add(ButtonPanel, BorderLayout.South)
-Public Static Main(String [] Args){
-JFrame F = New Covid Strings26()
+audio.play 
+jbutton random button
+new jbutton (set random color)
+private final j button option button=
+new j button (change color)
+public fun with graphics(){
+jpanel color panel=new j panel();
+this add (panel,center )
+jpanel button panel=
+new j panel (flowlayout.center)
+buttonpanel.add(randombutton);
+random.button add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+random r= newrandom();
+colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
+buttonpanel.add(optionbutton);
+optionbutton.add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+Color M=JColorChooser.ShowDialog(funwithgraphics.this)
+if(multi!=null)
+color panel set.background(multi)
+this.add(buttonpanel,borderlayout.south)
+public static main(string [] args)
+jframe f =new covid strings26()
 F.Set Title(Covid Strings26)
 F.Set Default CloseOperation(JFrame. Exit_On_Close);
 F.SetSize
@@ -79,47 +79,47 @@ On+A+Geopolitical+Level+The+Book+Biohacked+Can+Talk+About+The+Future+Of+Chinise+
 It+Is+Also+Important+To+Note+That+The+Next+Pandemic+Might+Come+From+Humans
 Perhaps+It+Could+Be+A+Bioweapon+That+Could+Be+Deployed+In+A+Future+War
 Even+The+Pentagon+Has+Issued+A+Warning+Over+This+Scenario]
-Covid Strings Math Problems List26=[If A Line Showed That There Was A Straight Line On The Effect Of Covid And Lockdowns What Relationship Exists?,If The Slope Of The Covid-Lockdowns Line Is 1/2 And The Y Intercept Is2 What Would The Y Coordinate Be If The X Coordinate Is7?,If The Point (7,5.5) Was Reflected Across The X Axis What Would The New Point Be?,If The Previous Point Was Rotated90 Degrees Clockwise What Is The New Point?,If The Previous Point Was Rotated270 Degrees Clockwise What Is The New Point?,If The Previous Point Was Reflected Across The Y Axis What Would The New Point Be?,If The Previous Point Was Translated7 Units To The Left And9 Units Up What Would The New Point Be?,If The Previous Point Was Translated5 Units Right And Units15Down What Is The New Point?If+77+Percent+Of+Americans+View+Biohacked+As+A+Good+Book+For+Covid+International+Relations+What+Percent+Dont?]
-Covid Strings26 Scrambled Phrase List=[Noztic+Rivseus,Ovicd+Acvine+Hesding]
-Covid Strings26 Bonus Question1=(If+The+Slope+Of+The+Covid-Lockdowns+Line+Was+Increased+To+1+Given+The+Same+Y+Intercept+What+Is+The+New+Y+Point?)
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Myclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Import Syntax
-Chart JS 
-Def Gradient
-Id=MyGradient
-GradientUnits=UserSpaceOnUse
-If Selectedanswer==Correct:
-Return True
-Else:
-Return False
-If Selectedanswer=Not Correct:
-Return False
-Else:
-Return True
-Return Filename
+covid strings math problems list26=[if a line showed that there was a straight line on the effect of covid and lockdowns what relationship exists?,if the slope of the covid-lockdowns line is 1/2 and the y intercept is2 What Would The Y Coordinate Be If The X Coordinate Is7?,If The Point (7,5.5) Was Reflected Across The X Axis What Would The New Point Be?,If The Previous Point Was Rotated90 Degrees Clockwise What Is The New Point?,If The Previous Point Was Rotated270 Degrees Clockwise What Is The New Point?,If The Previous Point Was Reflected Across The Y Axis What Would The New Point Be?,If The Previous Point Was Translated7 Units To The Left And9 Units Up What Would The New Point Be?,If The Previous Point Was Translated5 Units Right And units15down what is the new point?if+77+percent+of+americans+view+biohacked+as+a+good+book+for+covid+international+relations+what+percent+dont?]
+covid strings26 scrambled phrase list=[noztic+rivseus,ovicd+acvine+hesding]
+covid strings26 bonus question1=(if+the+slope+of+the+covid-lockdowns+line+was+increased+to+1+given+the+same+y+intercept+what+is+the+new+y+point?)
+userin.select team
+import meta.
+class myclass
+constructor (non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+import syntax
+chart js 
+def gradient
+id=mygradient
+gradientunits=userspaceonuse
+if selectedanswer==correct:
+return true
+else:
+return false
+if selectedanswer=not correct:
+return false
+else:
+return true
+return filename
