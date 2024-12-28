@@ -28,7 +28,7 @@ buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
-Color M=JColorChooser.ShowDialog(funwithgraphics.this)
+color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel,borderlayout.south)
