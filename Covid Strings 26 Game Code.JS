@@ -134,7 +134,7 @@ transformationlist=[reflection,rotation,translation]
 if reflection==x Axis:
 shift x axis
 else:
-shift y Axis
+shift y axis
 if rotation==x degrees clockwise:
 shift x degrees 
 else:
