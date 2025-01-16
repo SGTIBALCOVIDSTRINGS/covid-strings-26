@@ -5,6 +5,12 @@ head
 utf8
 viewport content=width=device-width,initial-scale=one
 title covid strings26 second round bracket
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
 filename=covid strings26 secondround.js
 highest remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed=(lowest remaining num value in covid strings list)
