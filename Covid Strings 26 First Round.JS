@@ -5,6 +5,16 @@ head
 utf8
 viewportcontent=width=device-width,initial-scale=one
 title covid strings26 first round bracket
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings26 first round.js
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed =seed1
@@ -16,13 +26,13 @@ third lowest seed=seed6
 second lowest seed =seed7
 lowest overall seed =seed8
 covid strings team list26=[orange,yellow,pink,teal,red,purple,indigo,violet]
-create matchup(indigo versus yellow)
-creatematchup(violet versus orange)
-creatematchup(purple versus pink)
-creatematchup(red versus teal )
+matchup1=(indigo versus yellow)
+matchup2=(violet versus orange)
+matchup3=(purple versus pink)
+matchup4=(red versus teal )
 document.createelement 
 matchupdiv.classname=(matchup)
-matchupdiv.innerHTML=[matchup]
+matchupdiv.inner html=[matchup]
 rounddiv.appendchild(matchup)
 for (i in covid strings first round)
 round div=create element
@@ -55,20 +65,22 @@ return true
 else:
 return false
 advancingteam=slice(current teams)
-declarewinner
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup1)
 if yellow score>=forty:
 console.log(yellow moxie wins)
 else:
 console.log(indigo isos win)
+result=declarewinner(matchup2)
 if orange score>=forty:
 console.log(orange rna messengers win)
 else:
 console.log(violet relivers win)
+result=declarewinner(matchup3)
 if pink score>=forty:
 console.log(pink covid disease fighters win )
 else:
 console.log(purple brave hearts win)
+result=declarewinner(matchup4)
 if teal score>=forty:
 console.log(teal terminators win)
 else:
