@@ -1,6 +1,6 @@
 doc.type.html
 script
-filename=covid strings26gamecode.js
+filename=covid strings26.js
 java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
