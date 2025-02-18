@@ -139,16 +139,18 @@ height=100%
 <fecomponenttransfer>
 <fefunccovidstrings  type=linear slope>=1
 transformationlist=[reflection,rotation,translation]
-if reflection==x axis:
-shift x axis
+if reflection(7,5.5)==x axis:
+sign.change y coordinate
 else:
-shift y axis
-if rotation==90 degrees clockwise:
-shift x degrees 
+remain
+if rotation(7,-5.5)==90 degrees clockwise:
+shift 90 degrees clockwise 
 else:
-shift 90 degrees counterclockwise
-if rotation==270 degrees clockwise
+remain
+if rotation(-7,-5.5)==270 degrees clockwise
 shift 270 degrees clockwise
+else:
+remain
 if translation==(-7,9):
 shift 7 units left and 9 units up 
 else:
