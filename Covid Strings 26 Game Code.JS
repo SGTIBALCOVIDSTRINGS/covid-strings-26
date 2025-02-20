@@ -151,11 +151,15 @@ if rotation(-7,-5.5)==270 degrees clockwise
 shift 270 degrees clockwise
 else:
 remain
-if translation==(-7,9):
+if reflection(-7,5.5)==y axis 
+sign.change x coordinate
+else:
+remain
+if translation(7,5.5)==(-7,9):
 shift 7 units left and 9 units up 
 else:
 remain
-if translation=(5,-15)
+if translation(0,14.5)=(5,-15)
 shift 5 units right and 15 units down
 if selectedanswer==correct:
 return true
